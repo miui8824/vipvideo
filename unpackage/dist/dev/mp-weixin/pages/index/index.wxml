@@ -1,0 +1,1 @@
+<view class="content"><view data-event-opts="{{[['tap',[['natodetails',['$event']]]]]}}" class="videocard" bindtap="__e"><view class="image_card"><image src="//puui.qpic.cn/vcover_vt_pic/0/mzc0020073xzbad1624242335951/350" mode="aspectFill"></image><view class="update_timer">更新至28级</view></view><view class="videoName">你微笑时很美</view></view></view>

@@ -1,0 +1,23 @@
+.content {
+  box-sizing: border-box;
+}
+video {
+  width: 100%;
+  height: 375rpx;
+}
+.btn-group {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+          flex-wrap: wrap;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+          align-items: center;
+}
+.u-button {
+  margin-left: 20rpx;
+  margin-bottom: 16rpx;
+  margin-top: 24rpx;
+}
+
